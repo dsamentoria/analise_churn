@@ -4,14 +4,14 @@ Customer Churn (ou Rotatividade de Clientes, em uma tradução livre) refere-se 
 
 Neste projeto, você deve prever o Customer Churn em uma Operadora de Telecom.
 
-** O que é Churn? **
+* O que é Churn? **
 
 Churn, numa definição mais generalista, é uma métrica que indica o número de clientes que cancelam em determinado período de tempo. Para calcular o churn, o que você precisa fazer é somar o número de clientes que cancelou seu produto/serviço no período analisado.
 
 Churn = total de clientes cancelados
 Para que uma empresa consiga fazer a expansão da sua base de clientes, é preciso que o número de novos clientes exceda o seu churn rate – a taxa de clientes cancelados.
 
-**Como fazer para calcular a sua taxa de churn?**
+* Como fazer para calcular a sua taxa de churn?**
 A taxa de churn geralmente é calculada num determinado período, seja anual, semestral ou mensal.
 
 Por exemplo: se 1 de cada 20 clientes cancelam seu produto todo mês, isso representa que a taxa de churn para seu produto será de 5%.
@@ -20,10 +20,10 @@ Você também pode calcular a taxa de churn, que irá representar o percentual d
 
 Churn Rate: total de clientes cancelados / número total de clientes ativos do último mês
 
-**Qual a diferença entre Churn e Churn de receita (ou MRR Churn)?**
+* Qual a diferença entre Churn e Churn de receita (ou MRR Churn)?**
 A diferença é simples. *Churn rate* representa o número de clientes que cancelam num determinado período, já o *Churn de Receita* representa o quanto de receita é perdida dentro desse lote de clientes.
 
-**Churn de Receita ou MRR Churn**
+* Churn de Receita ou MRR Churn**
 MRR significa Monthly Recurring Revenue (receita recorrente mensal). Vamos explicar usando um exemplo simples onde 3 clientes cancelaram a assinatura num determinado mês.
 
 Digamos que o primeiro cliente pagava R$100/mês, o segundo R$200/mês e o terceiro R$250/mês. O seu churn de receita nesse período será a soma dos valores que os clientes pagavam, encontrando o seu MRR Churn.
